@@ -1,6 +1,5 @@
 import os
 import xmltodict
-import json
 from dictor import dictor
 
 

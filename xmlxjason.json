@@ -1,0 +1,407 @@
+{
+    "nfeProc": {
+        "@versao": "4.00",
+        "@xmlns": "http://www.portalfiscal.inf.br/nfe",
+        "NFe": {
+            "@xmlns": "http://www.portalfiscal.inf.br/nfe",
+            "infNFe": {
+                "@versao": "4.00",
+                "@Id": "NFe26250225052368000124550010000428511627328957",
+                "ide": {
+                    "cUF": "26",
+                    "cNF": "62732895",
+                    "natOp": "VENDA DE MERCADORIA, ADQUIRIDA OU RECEBIDA DE TERCEIROS, SUJ",
+                    "mod": "55",
+                    "serie": "1",
+                    "nNF": "42851",
+                    "dhEmi": "2025-02-11T17:31:50-03:00",
+                    "dhSaiEnt": "2025-02-12T17:31:50-03:00",
+                    "tpNF": "1",
+                    "idDest": "1",
+                    "cMunFG": "2611606",
+                    "tpImp": "1",
+                    "tpEmis": "1",
+                    "cDV": "7",
+                    "tpAmb": "1",
+                    "finNFe": "1",
+                    "indFinal": "1",
+                    "indPres": "1",
+                    "indIntermed": "0",
+                    "procEmi": "0",
+                    "verProc": "NFeManager v.2.5.0.0"
+                },
+                "emit": {
+                    "CNPJ": "25052368000124",
+                    "xNome": "RF INDUSTRIA DE PRODUTOS ALIMENTICIOS EIRELI - EPP",
+                    "enderEmit": {
+                        "xLgr": "RUA FLAVIO GUERRA",
+                        "nro": "115",
+                        "xBairro": "MACAXEIRA",
+                        "cMun": "2611606",
+                        "xMun": "RECIFE",
+                        "UF": "PE",
+                        "CEP": "52090620",
+                        "cPais": "1058",
+                        "xPais": "BRASIL",
+                        "fone": "8132681768"
+                    },
+                    "IE": "067855490",
+                    "CRT": "3"
+                },
+                "dest": {
+                    "CPF": "17091232496",
+                    "xNome": "GUILHERME BERNARDO DA SILVA",
+                    "enderDest": {
+                        "xLgr": "DISTRITO PINDOBINHA",
+                        "nro": "SN",
+                        "xBairro": "PINDOBINHA",
+                        "cMun": "2602209",
+                        "xMun": "BOM JARDIM",
+                        "UF": "PE",
+                        "CEP": "55730000",
+                        "cPais": "1058",
+                        "xPais": "BRASIL",
+                        "fone": "81998897162"
+                    },
+                    "indIEDest": "9"
+                },
+                "det": [
+                    {
+                        "@nItem": "1",
+                        "prod": {
+                            "cProd": "4362",
+                            "cEAN": "SEM GTIN",
+                            "xProd": "PICOLE COMUM - LEITE CONDENSADO CX C/26",
+                            "NCM": "21050010",
+                            "CEST": "2300100",
+                            "CFOP": "5405",
+                            "uCom": "CX26",
+                            "qCom": "1.0000",
+                            "vUnCom": "40.0000000000",
+                            "vProd": "40.00",
+                            "cEANTrib": "SEM GTIN",
+                            "uTrib": "CX26",
+                            "qTrib": "1.0000",
+                            "vUnTrib": "40.0000000000",
+                            "vDesc": "1.00",
+                            "indTot": "1"
+                        },
+                        "imposto": {
+                            "vTotTrib": "0.00",
+                            "ICMS": {
+                                "ICMSST": {
+                                    "orig": "0",
+                                    "CST": "60",
+                                    "vBCSTRet": "0.00",
+                                    "pST": "0.00",
+                                    "vICMSSubstituto": "0.00",
+                                    "vICMSSTRet": "0.00",
+                                    "vBCSTDest": "0.00",
+                                    "vICMSSTDest": "0.00"
+                                }
+                            },
+                            "PIS": {
+                                "PISAliq": {
+                                    "CST": "01",
+                                    "vBC": "39.00",
+                                    "pPIS": "0.6500",
+                                    "vPIS": "0.25"
+                                }
+                            },
+                            "COFINS": {
+                                "COFINSAliq": {
+                                    "CST": "01",
+                                    "vBC": "39.00",
+                                    "pCOFINS": "3.0000",
+                                    "vCOFINS": "1.17"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@nItem": "2",
+                        "prod": {
+                            "cProd": "4401",
+                            "cEAN": "0742832736350",
+                            "xProd": "POTE DE 2L - DELICIA DE ABACAXI - QBOMBOM",
+                            "NCM": "21050090",
+                            "CEST": "2300100",
+                            "CFOP": "5405",
+                            "uCom": "PT2L",
+                            "qCom": "2.0000",
+                            "vUnCom": "21.5400000000",
+                            "vProd": "43.08",
+                            "cEANTrib": "0742832736350",
+                            "uTrib": "PT2L",
+                            "qTrib": "2.0000",
+                            "vUnTrib": "21.5400000000",
+                            "vDesc": "1.08",
+                            "indTot": "1"
+                        },
+                        "imposto": {
+                            "vTotTrib": "0.00",
+                            "ICMS": {
+                                "ICMSST": {
+                                    "orig": "0",
+                                    "CST": "60",
+                                    "vBCSTRet": "0.00",
+                                    "pST": "0.00",
+                                    "vICMSSubstituto": "0.00",
+                                    "vICMSSTRet": "0.00",
+                                    "vBCSTDest": "0.00",
+                                    "vICMSSTDest": "0.00"
+                                }
+                            },
+                            "PIS": {
+                                "PISAliq": {
+                                    "CST": "01",
+                                    "vBC": "42.00",
+                                    "pPIS": "0.6500",
+                                    "vPIS": "0.27"
+                                }
+                            },
+                            "COFINS": {
+                                "COFINSAliq": {
+                                    "CST": "01",
+                                    "vBC": "42.00",
+                                    "pCOFINS": "3.0000",
+                                    "vCOFINS": "1.26"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@nItem": "3",
+                        "prod": {
+                            "cProd": "4525",
+                            "cEAN": "SEM GTIN",
+                            "xProd": "POTE DE 2L - SONHO DE VALSA - QBOMBOM",
+                            "NCM": "21050090",
+                            "CEST": "2300100",
+                            "CFOP": "5405",
+                            "uCom": "PT2L",
+                            "qCom": "1.0000",
+                            "vUnCom": "21.5400000000",
+                            "vProd": "21.54",
+                            "cEANTrib": "SEM GTIN",
+                            "uTrib": "PT2L",
+                            "qTrib": "1.0000",
+                            "vUnTrib": "21.5400000000",
+                            "vDesc": "0.54",
+                            "indTot": "1"
+                        },
+                        "imposto": {
+                            "vTotTrib": "0.00",
+                            "ICMS": {
+                                "ICMSST": {
+                                    "orig": "0",
+                                    "CST": "60",
+                                    "vBCSTRet": "0.00",
+                                    "pST": "0.00",
+                                    "vICMSSubstituto": "0.00",
+                                    "vICMSSTRet": "0.00",
+                                    "vBCSTDest": "0.00",
+                                    "vICMSSTDest": "0.00"
+                                }
+                            },
+                            "PIS": {
+                                "PISAliq": {
+                                    "CST": "01",
+                                    "vBC": "21.00",
+                                    "pPIS": "0.6500",
+                                    "vPIS": "0.14"
+                                }
+                            },
+                            "COFINS": {
+                                "COFINSAliq": {
+                                    "CST": "01",
+                                    "vBC": "21.00",
+                                    "pCOFINS": "3.0000",
+                                    "vCOFINS": "0.63"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "@nItem": "4",
+                        "prod": {
+                            "cProd": "4685",
+                            "cEAN": "SEM GTIN",
+                            "xProd": "PICOLE COMUM - MILHO VERDE CX C/26",
+                            "NCM": "21050010",
+                            "CEST": "2300100",
+                            "CFOP": "5405",
+                            "uCom": "CX26",
+                            "qCom": "3.0000",
+                            "vUnCom": "40.0000000000",
+                            "vProd": "120.00",
+                            "cEANTrib": "SEM GTIN",
+                            "uTrib": "CX26",
+                            "qTrib": "3.0000",
+                            "vUnTrib": "40.0000000000",
+                            "vDesc": "3.00",
+                            "indTot": "1"
+                        },
+                        "imposto": {
+                            "vTotTrib": "0.00",
+                            "ICMS": {
+                                "ICMSST": {
+                                    "orig": "0",
+                                    "CST": "60",
+                                    "vBCSTRet": "0.00",
+                                    "pST": "0.00",
+                                    "vICMSSubstituto": "0.00",
+                                    "vICMSSTRet": "0.00",
+                                    "vBCSTDest": "0.00",
+                                    "vICMSSTDest": "0.00"
+                                }
+                            },
+                            "PIS": {
+                                "PISAliq": {
+                                    "CST": "01",
+                                    "vBC": "117.00",
+                                    "pPIS": "0.6500",
+                                    "vPIS": "0.76"
+                                }
+                            },
+                            "COFINS": {
+                                "COFINSAliq": {
+                                    "CST": "01",
+                                    "vBC": "117.00",
+                                    "pCOFINS": "3.0000",
+                                    "vCOFINS": "3.51"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "total": {
+                    "ICMSTot": {
+                        "vBC": "0.00",
+                        "vICMS": "0.00",
+                        "vICMSDeson": "0.00",
+                        "vFCP": "0.00",
+                        "vBCST": "0.00",
+                        "vST": "0.00",
+                        "vFCPST": "0.00",
+                        "vFCPSTRet": "0.00",
+                        "qBCMono": "0.00",
+                        "vICMSMono": "0.00",
+                        "qBCMonoReten": "0.00",
+                        "vICMSMonoReten": "0.00",
+                        "qBCMonoRet": "0.00",
+                        "vICMSMonoRet": "0.00",
+                        "vProd": "224.62",
+                        "vFrete": "0.00",
+                        "vSeg": "0.00",
+                        "vDesc": "5.62",
+                        "vII": "0.00",
+                        "vIPI": "0.00",
+                        "vIPIDevol": "0.00",
+                        "vPIS": "1.42",
+                        "vCOFINS": "6.57",
+                        "vOutro": "0.00",
+                        "vNF": "219.00",
+                        "vTotTrib": "0.00"
+                    }
+                },
+                "transp": {
+                    "modFrete": "0",
+                    "transporta": {
+                        "CNPJ": "25052368000124",
+                        "xNome": "RF INDUSTRIA",
+                        "IE": "067855490",
+                        "UF": "PE"
+                    },
+                    "veicTransp": {
+                        "placa": "OYW1667"
+                    },
+                    "vol": {
+                        "qVol": "7",
+                        "esp": "CXSPTS",
+                        "marca": "QBOMBOM",
+                        "pesoL": "0.000",
+                        "pesoB": "0.000"
+                    }
+                },
+                "cobr": {
+                    "fat": {
+                        "nFat": "42851",
+                        "vOrig": "219.00",
+                        "vDesc": "0.00",
+                        "vLiq": "219.00"
+                    },
+                    "dup": {
+                        "nDup": "001",
+                        "dVenc": "2025-02-12",
+                        "vDup": "219.00"
+                    }
+                },
+                "pag": {
+                    "detPag": {
+                        "tPag": "99",
+                        "xPag": "Duplicata Mercantil",
+                        "vPag": "219.00"
+                    }
+                },
+                "infAdic": {
+                    "infCpl": "DANFE REFERENTE AO PEDIDO N.503208 COM DATA 12/02/2025"
+                },
+                "infRespTec": {
+                    "CNPJ": "06220266000126",
+                    "xContato": "Renato Rodrigues",
+                    "email": "pesquisa@softcomtecnologia.com.br",
+                    "fone": "8331333600"
+                }
+            },
+            "Signature": {
+                "@xmlns": "http://www.w3.org/2000/09/xmldsig#",
+                "SignedInfo": {
+                    "CanonicalizationMethod": {
+                        "@Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                    },
+                    "SignatureMethod": {
+                        "@Algorithm": "http://www.w3.org/2000/09/xmldsig#rsa-sha1"
+                    },
+                    "Reference": {
+                        "@URI": "#NFe26250225052368000124550010000428511627328957",
+                        "Transforms": {
+                            "Transform": [
+                                {
+                                    "@Algorithm": "http://www.w3.org/2000/09/xmldsig#enveloped-signature"
+                                },
+                                {
+                                    "@Algorithm": "http://www.w3.org/TR/2001/REC-xml-c14n-20010315"
+                                }
+                            ]
+                        },
+                        "DigestMethod": {
+                            "@Algorithm": "http://www.w3.org/2000/09/xmldsig#sha1"
+                        },
+                        "DigestValue": "+0lwHAPH6oTB3rOza8hrEPqc4mA="
+                    }
+                },
+                "SignatureValue": "qHSOk8DwWyO98cWzmN4wYKhdVClRzKBoyiS4A7iWWVCJDrfqWmwJS4ScF1reeozvzxnrwn4AJogXxDH592cmeH+4nCG3MY7X3LBhJH2JVYHl4hQiMl7PKhYbxow7xo5LbQUMwBv4EPXDuYTDjxhCNwnI80BRI/dVDRP4yZAKXW6W3kywO+BUJ2+Ub9ua4D9Q14E0NqHghVX73gTQesKMDaX052f/VgEndYN6gto897Lv7XE2hz7XKQXndAsUjuKn8gPw+Df6qIBAimENGPZpsY6X97PNL0iE9EjyZYSSnjVjIFAh08eUjxbMSAKZZeHhKjTn673l6cItFewHXX1XtQ==",
+                "KeyInfo": {
+                    "X509Data": {
+                        "X509Certificate": "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"
+                    }
+                }
+            }
+        },
+        "protNFe": {
+            "@versao": "4.00",
+            "infProt": {
+                "@Id": "NFe1",
+                "tpAmb": "1",
+                "verAplic": "NFEPE_P_3.12.0",
+                "chNFe": "26250225052368000124550010000428511627328957",
+                "dhRecbto": "2025-02-11T17:49:11-03:00",
+                "nProt": "126250014875232",
+                "digVal": "+0lwHAPH6oTB3rOza8hrEPqc4mA=",
+                "cStat": "100",
+                "xMotivo": "Autorizado o uso da NF-e"
+            }
+        }
+    }
+}
