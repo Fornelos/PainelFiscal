@@ -3,7 +3,7 @@ import xmltodict
 from dictor import dictor
 
 
-diretorio_xml = 'C:\\xml\\25052368000124_55_01022025_28022025\\'
+diretorio_xml = 'C:\\xml\\25052368000124_55_01022025_28022025\\prod\\'
 arquivos_no_diretorio = os.listdir(diretorio_xml)
 arquivos_xml= [arquivo for arquivo in arquivos_no_diretorio if arquivo.endswith('.xml')]
 contador=0
